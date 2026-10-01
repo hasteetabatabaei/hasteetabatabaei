@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Hastee!
+### Industrial Engineering Student | Aspiring Data Scientist & Analyst
 
-<!--
-**hasteetabatabaei/hasteetabatabaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year Industrial Engineering student passionate about leveraging Machine Learning, Statistics, and Data Analytics to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn
+
+---
+
+### 🚀 Featured Projects
+- **[Student Performance Prediction](https://github.com/hasteetabatabaei/student-performance-prediction):** Predictive model built with XGBoost, focusing on preventing Data Leakage to deliver realistic insights.
+- **[Loan Default Prediction](https://github.com/hasteetabatabaei/Loan-Default-Prediction-Credit-Risk-Modeling):** Credit risk modeling to predict loan default risks in financial datasets.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [www.linkedin.com/in/hastee-tabatabaei]
+- **Email:** hastee.tabatabaei@gmail.com
+
+
